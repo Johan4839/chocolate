@@ -1,5 +1,4 @@
-function templateFunction(x: number) {
-  return x / 2;
+export function breakChocolate(x: number,y: number): number {
+  return x;
 }
 
-export { templateFunction };
